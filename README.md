@@ -12,6 +12,8 @@ Last Assigment of the online course was to implement the userSlice api and it wo
 
 Dave Gray course author.
 
+[Check out the online course](https://youtu.be/NqzdVN2tyvQ)
+
 [Check out his YouTube Channel](https://www.youtube.com/DaveGrayTeachesCode).
 
 [Subscribe to his channel](https://bit.ly/3nGHmNn)

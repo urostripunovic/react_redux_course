@@ -1,6 +1,8 @@
-# "React Redux Toolkit for Beginners"
+# React Redux Toolkit for Beginners 
 
 A short presentation about Redux was given in our course in EDAF90 - web programming and I found this course online that is has a course for beginners with instructions to help me learn state management with Redux. Think of this React Redux full course tutorial with a video textbook which has 7 clearly defined chapters done by Dave Gray, links below. A lot of it is to follow along, there wasn't much to code. Still a good short course showing how Redux could be used to update the state. I even got to practice my hooks.
+
+Last Assigment of the online course was to implement the userSlice api and it works! I'm a certified 📝🐯 
 
 ### 7 Lessons And Chapters
 

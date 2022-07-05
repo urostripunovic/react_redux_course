@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 
 import { useSelector } from "react-redux";
 import { selectPostById } from "./postsSlice";
+//import React from "react";
 
 const PostsExcerpt = ({ postId }) => {
     const post = useSelector(state => selectPostById(state, postId))
@@ -22,5 +23,7 @@ const PostsExcerpt = ({ postId }) => {
         </article>
     )
 }
+
+//PostsExcerpt = React.memo(PostsExcerpt);
 
 export default PostsExcerpt

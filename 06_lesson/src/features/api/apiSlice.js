@@ -4,7 +4,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
 export const apiSlice = createApi({
     reducerPath: 'api',
     baseQuery: fetchBaseQuery({ baseUrl: 'http://localhost:3500' }),
-    tagTypes: ['Todos'],
+    tagTypes: ['Todos'], //Denna används för att rendera componenten efter en ändring och inte bara ha kvar det cachade resultatet
     endpoints: (builder) => ({
         getTodos: builder.query({
             query: () => '/todos',
